@@ -35,7 +35,7 @@ Garbage-Classification/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/garbage-classification.git
+https://github.com/Tanu123-rgb/garbage-classification
 ```
 
 2. Navigate to the project folder:
